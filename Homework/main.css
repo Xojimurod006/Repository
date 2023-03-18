@@ -1,0 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+.container {
+    margin: 80px auto;
+    position: relative;
+    width: 1307px;
+    height: 802px;
+    background: #EFA45F;
+}
+
+.ota {
+    position: absolute;
+    width: 1021px;
+    height: 669px;
+    left: 105px;
+    top: 82px;
+    background: #FFFFFF;
+}
+
+.bola {
+    position: absolute;
+
+    width: 311px;
+    height: 305px;
+    left: 100px;
+    top: 46px;
+    background: url(./Screenshot_2022-06-11-00-13-40-494_com.instagram\ 1.png);
+    border-radius: 150px;
+}
+
+.text {
+    position: absolute;
+    width: 226px;
+    height: 42px;
+    left: 48px;
+    top: 322px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 37px;
+
+    color: #7C501B;
+}
+
+.text2 {
+    position: absolute;
+    width: 140px;
+    height: 23px;
+    left: 85px;
+    top: 360px;
+
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 36px;
+
+    color: #7C501B;
+
+}
+
+.follow {
+    color: #FFFFFF;
+    border: 2px solid #7C501B;
+    border-radius: 40px;
+    background: #7C501B;
+    position: absolute;
+    width: 290px;
+    height: 60px;
+    font-size: 33px;
+    top: 440px;
+    left: 13px;
+    font-weight: 700;
+    line-height: 58px;
+
+}
+
+.message {
+
+    border: 4px solid #7C501B;
+    border-radius: 40px;
+    background: #FFFFFF;
+    position: absolute;
+    width: 290px;
+    height: 60px;
+    font-size: 31px;
+    top: 513px;
+    left: 13px;
+    font-weight: 700;
+    line-height: 58px;
+    color: #7C501B;
+}
+
+.item1 {
+    position: absolute;
+    width: 281px;
+    height: 196px;
+    left: 620px;
+    top: 0px;
+    padding: 10px 0;
+    background: #FCEAD0;
+    font-size: 50px;
+   padding:0 80px 100px;
+    line-height: 94px;
+    color: #000000;
+}
+
+.item2 {
+    position: absolute;
+    width: 281px;
+    height: 188px;
+    left: 620px;
+    background: #FCEAD0;
+    top: 200px;
+    padding: 0 80px 100px;
+    margin-top: 9px;
+    font-size: 50px;
+    line-height: 94px;
+}
+
+.item3 {
+    background: #FCEAD0;
+    position: absolute;
+    width: 281px;
+    height: 188px;
+    left: 620px;
+    top: 400px;
+    padding:0 80px 100px;
+    margin-top: 10px;
+    font-size: 50px;
+    line-height: 94px;
+}
+p {
+    position: absolute;
+    left: 620px;
+    top: 70px; 
+    line-height: 94px;
+    color: #000000;
+    font-size: 31px;
+    padding:0 80px 100px;
+    width: 281px;
+    height: 188px;
+}
+span {
+    position: absolute;
+    right: 113px;
+    top: 400px; 
+  
+    color: #000000;
+    font-size: 23px;
+   
+}
